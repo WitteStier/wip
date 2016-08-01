@@ -1,0 +1,12 @@
+{
+  "name": "wip",
+  "version": "0.0.1",
+  "description": "WitteStier Internet Printing",
+  "main": "main.js",
+  "scripts": {},
+  "author": "WitteStier <boyvanmoorsel@wittestier.nl>",
+  "dependencies": {
+    "ipp-printer": "^1.0.0",
+    "rc": "^1.1.6"
+  }
+}
